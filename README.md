@@ -6,6 +6,8 @@ open MATLAB -> APPS -> Library Compiler
 
 Add all your functions(.m files) from EXPORTED DUNCTIONS section
 
+Optional : create samples for your functions from samples tab, it will generate sample java code for you
+
 Pick "Java Package" from TYPE section 
 
 Submit Package Button 
